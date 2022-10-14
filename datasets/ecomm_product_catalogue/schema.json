@@ -1,0 +1,112 @@
+[
+    {
+        "name": "category",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "subcategory",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "name",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "current_price",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "raw_price",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "currency",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "discount",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "likes_count",
+        "type": "INTEGER",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "is_new",
+        "type": "BOOLEAN",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "brand",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "brand_url",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "codcountry",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "variation_0_color",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "variation_1_color",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "variation_0_thumbnail",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "variation_0_image",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "variation_1_thumbnail",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "variation_1_image",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "image_url",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "url",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "id",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "model",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    }
+]
